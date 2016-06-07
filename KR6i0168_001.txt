@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:42.951067
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:47
 #+TITLE: 佛說呵雕阿那鋡經
 #+PROPERTY: CBETA_ID T14n0538
 #+PROPERTY: ID KR6i0168
